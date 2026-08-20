@@ -5,7 +5,7 @@ To understand the fundamentals of User Interface (UI) and User Experience (UX), 
 
 # Output:
 
-##A. Explore the Fundamentals of UI and UX
+## A. Explore the Fundamentals of UI and UX
 
 UI (User Interface) is the visual part of a digital product that users interact with. It includes buttons, icons, colors, typography, images, layouts, and navigation. A good UI is visually attractive, consistent, and easy to understand.
 UX (User Experience) focuses on the overall experience users have while interacting with a product. It involves usability, accessibility, efficiency, user satisfaction, and solving users' problems through thoughtful design.
@@ -17,7 +17,7 @@ Key Principles
 •	Clear navigation 
 •	Fast performance 
 
-##B. Differentiate Between UI and UX Using Real-World Case Studies
+## B. Differentiate Between UI and UX Using Real-World Case Studies
 
 Feature	UI	UX
 Focus	Visual appearance	Overall user experience
@@ -32,7 +32,7 @@ Case Study 2: Amazon:
 UI: Clear product cards, search bar, and purchase buttons. 
 UX: Fast product search, personalized recommendations, secure checkout, and easy order tracking. 
 
-##C. Illustrate the Relationship Between UI and UX in Design
+## C. Illustrate the Relationship Between UI and UX in Design
 
 UI and UX work together to create successful digital products.
 User Research
@@ -53,7 +53,7 @@ UX: Users can quickly find restaurants and place orders with minimal steps.
 UI: Attractive menu cards, colorful buttons, readable fonts, and intuitive icons. 
 A beautiful interface (UI) without a good experience (UX) frustrates users, while good UX with poor UI may appear unattractive. Both are essential for a successful application.
 
-##D. Demonstrate Various UI/UX Design Tools
+## D. Demonstrate Various UI/UX Design Tools
 
 Tool	Purpose
 Figma	UI design, wireframing, prototyping, and real-time collaboration.
